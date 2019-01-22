@@ -1,0 +1,118 @@
+header {
+       width:35.2cm;
+       height:3cm;
+
+}
+.image {
+    padding-left:30px;
+    padding-top:5px;
+    margin-left:.5cm;
+}
+
+.heading {
+    text-align: center;
+}
+.image{
+    width:90px;
+    height:80px;
+    padding-left:10px;
+    padding-top:20px;
+
+}
+.heading {
+    margin:0px 0px;
+    width:100px;
+    height:40px;
+    font-size:30px;
+}
+.search {
+    margin-left:21cm;
+    margin-top:-35px;
+    
+}
+ul {
+    list-style-type:none;
+    margin-right:0px;
+    padding:0;
+    overflow:hidden;
+    background-color:grey;
+}
+li {
+    float: left;
+
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+    
+
+}
+li a:hover {
+    background-color:red;
+    text-decoration:none;
+}
+.profile {
+
+    margin:20px 20px;
+    width:15cm;
+    height:10cm;
+}
+.profile1 {
+
+    margin-left:29cm;
+    margin-right:12cm;
+    height:40px;
+    margin-top:-55px;
+    
+}
+.profile3 {
+    margin:20px 10px;
+    width:15cm;
+    height:10cm;
+    float:right;
+    margin-top:-6cm;
+    font-size:22px;
+}
+body {
+    background-image: url("background.jpg");
+    width:100%;
+    overflow-x: hidden;
+}
+.welcome {
+    font-size:80px;
+    font-weight:bold;
+}
+
+
+.about {
+    text-align:center;
+    margin-left:1cm;
+    background-color:orangered;
+}
+.para {
+    background-color:transparent;
+    margin-left:1cm;
+    padding:5px 5px;
+}
+footer {
+    background-color:azure;
+    opacity:0.7;
+    margin-bottom:0cm;
+    
+
+}
+.mark {
+    padding-top:10px;
+    font-size:40px;
+    font-weight: bold;
+}
+.log {
+    float:right;
+}
+.out {
+    margin-top:0px;
+    padding-right: 60px
+}
